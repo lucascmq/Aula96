@@ -75,6 +75,12 @@ form button:hover {
   font-size: 2em;
   color: var(--primary-color);
   margin: 40px 0;
+   word-wrap: break-word;        
+  word-break: break-all;       
+  overflow-wrap: break-word;    
+  white-space: normal;         
+  max-width: 100%;              
+  box-sizing: border-box;  
 }
 input[type="checkbox"] {
   width: 15px;
