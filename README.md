@@ -1,5 +1,7 @@
 # 🔐 Gerador de Senhas Seguras
 
+**[Ver projeto funcionando](https://lucascmq.github.io/Aula96)** 
+
 Gerador de senhas responsivo e modular desenvolvido com **JavaScript ES6**, **Webpack** e **CSS moderno**.
 
 ## ✨ Funcionalidades
